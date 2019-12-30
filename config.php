@@ -16,7 +16,7 @@ return [
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => 'artisanstatic',
-        'cloudinary' => 'artisanstatic',
+        'cloudinary' => 'prime-images',
         'jumprock' => 'artisanstatic',
     ],
     'collections' => [
