@@ -9,9 +9,9 @@ return [
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Henri',
+        'twitter' => 'henrip',
+        'github' => 'henripper',
     ],
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
