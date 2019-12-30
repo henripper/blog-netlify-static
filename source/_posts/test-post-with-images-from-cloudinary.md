@@ -1,7 +1,7 @@
 ---
 title: Test post with images from Cloudinary
 date: 2019-12-30T12:20:59.943Z
-image: car-interior-design
+image: car-interior-design.jpg
 comments: true
 ---
 This is a test post. 
