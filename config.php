@@ -4,8 +4,8 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisan-static-demo.netlify.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'The PrimeReview',
+        'description' => 'Personal review blog',
         'image' => 'default-share.png',
     ],
     'owner' => [
