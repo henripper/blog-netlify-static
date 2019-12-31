@@ -4,8 +4,8 @@
 
 @section('content')
     <h1>About</h1>
-
-    <p>My name is {{ $page->owner->name }}</p>
+    <p>This is a work in progress blog, I'm building it up 'stone' by 'stone' from scratch using Netlify and Jigsaw blog template. As such, it's going to be very bare bones in the beginning but as time goes on I'wll be adding more quality of life improvements. </p>
+    {{-- <p>Hi my name is {{ $page->owner->name }}</p> --}}
 
     <h2>Links:</h2>
 
