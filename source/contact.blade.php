@@ -4,7 +4,7 @@
 
 @section('content')
     <h1>Contact</h1>
-    /*
+    {{--
     <form action="https://jumprock.co/mail/{{ $page->services->jumprock }}" method="post">
         <div>
             <label for="name">Name</label><br>
@@ -31,5 +31,5 @@
 
         <input type="submit" value="Send">
     </form>
-    */
+    --}}
 @endsection
