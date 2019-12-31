@@ -1,11 +1,6 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static for Jigsaw</h1>
-
-    <h2>Asset Compilation Test</h2>
-
-    <p>CSS test: <span class="test-css">text with border and padding</span></p>
-
-    <p>JavaScript test: <a href="#" class="test-js">click me</a></p>
+    <h1>Welcome to primereview - a work in progress static blog</h1>
+    <p>This here is a useless main page, you can find the blog posts from the menu at the top right here</p>
 @endsection
