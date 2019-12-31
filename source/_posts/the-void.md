@@ -7,7 +7,7 @@ tags:
 image: ''
 comments: true
 ---
-![black hole, captured by eventhorizontelescope.org](/images/blackhole.jpg)
+<img src="https://res.cloudinary.com/prime-images/image/upload/v1577780225/blackhole_d7j0ta.jpg" >
 
 # Hello World or hello the void
 
