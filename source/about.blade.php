@@ -4,7 +4,12 @@
 
 @section('content')
     <h1>About</h1>
-    <p>This is a work in progress blog, I'm building it up 'stone' by 'stone' from scratch using Netlify and Jigsaw blog template. As such, it's going to be very bare bones in the beginning but as time goes on I'wll be adding more quality of life improvements. </p>
+    <p>This is a work in progress blog, I'm building it up 'stone' by 'stone' from scratch using Netlify and Jigsaw blog template. As such, it's going to be very bare bones in the beginning but as time goes on I will be adding more quality of life improvements. </p>
+    <p>My hosting is done by https://netlify.com </p>
+    <p>The template I use is: https://templates.netlify.com/template/artisan-static/ (PHP - so thats new) </p>
+    <p>Comments are handled by (rather ugly) Disqus: https://disqus.com/ I'm looking into replacing that</p>
+    <p>Contact form was suppose to be handled by Jumprock but their service seems to be down</p>
+
     {{-- <p>Hi my name is {{ $page->owner->name }}</p> --}}
 
     <h2>Links:</h2>
