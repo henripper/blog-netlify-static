@@ -14,7 +14,7 @@ return [
         'github' => 'henripper',
     ],
     'services' => [
-        'analytics' => 'UA-XXXXX-Y',
+        'analytics' => 'UA-44809797-4',
         'disqus' => 'artisanstatic',
         'cloudinary' => 'prime-images',
         'jumprock' => 'artisanstatic',
