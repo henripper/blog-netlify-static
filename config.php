@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisan-static-demo.netlify.com',
     'site' => [
-        'title' => 'The PrimeReview',
+        'title' => 'The Primereview',
         'description' => 'Personal review blog',
         'image' => 'default-share.png',
     ],
@@ -15,7 +15,7 @@ return [
     ],
     'services' => [
         'analytics' => 'UA-44809797-4',
-        'disqus' => 'artisanstatic',
+        'disqus' => 'primereview',
         'cloudinary' => 'prime-images',
         'jumprock' => 'artisanstatic',
     ],
