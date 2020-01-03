@@ -22,7 +22,8 @@ I feel like yes I can do this, I can abstain from the unhealthy hobby, I can do 
 <center>
 
 <img src="https://res.cloudinary.com/prime-images/image/upload/v1578045634/camels-fresh-01-2015_v9yldl.jpg">
-
+</center>
+<center>
 "Give your throat a vacation"
 Give me a break, god people were dumb back then
 
@@ -35,7 +36,8 @@ But I liked doing it, at some point, I did like it. Then it became like a habit 
 <center>
 
 <img src="https://res.cloudinary.com/prime-images/image/upload/v1578045634/first_pack_qxtdl0.jpg">
-
+</center>
+<center>
 The first commercial cigarettes were made in 1865 by Washington Duke on his 300-acre farm in Raleigh, North Carolina. His hand-rolled cigarettes were sold to soldiers at the end of the Civil War. It was not until James Bonsack invented the cigarette-making machine in 1881 that cigarette smoking became widespread.
 </center>
 
