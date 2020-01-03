@@ -1,6 +1,7 @@
 ---
 title: Giving IT up
 date: 2020-01-03T09:37:15.253Z
+image: ad.jpg
 comments: true
 ---
 <center>
@@ -42,3 +43,5 @@ But I liked doing it, at some point, I did like it. Then it became like a habit 
 </center>
 
 So I know all of it, I have seen the images and heard the propaganda that doing it is bad for me, it stinks, it's barbarian and stupid. A person living in the 2020 should really not be doing a bad thing invented in the 1865. People did a lot of stupid shit back then. If anything there should be some cool futuristic new bad thing people could be doing but going with the belief that mankind can better itself and control its own destiny, then I think I can fucking give up doing it if I damn well want to. And I do want to not do it. When I do it I think I dont want to be doing it, when I try to stop I think I'd rather be doing it because what else is there left in life that is any good, well that is stupid, literally lots of good left in life and that is one of the very bad things that slowly but surely just kills you or reduces your quality of life. This is not a lecture or motivation for anyone to give, god knows most of the people have long already given up and the young'ns no longer do it I think so odds are no one reading this is struggling with this issue. But if you are, please dont take this as a suggestion to stop, I don't presume to tell you what to do, nor do I desire anything of the sort. You do you and nobody can control what you do. I hate when people preach or attempt to spread their grand good fortune on others, like omg you are healthy, congratulations but shut up, I know I could be healthy and work out more, god.
+
+![]()
