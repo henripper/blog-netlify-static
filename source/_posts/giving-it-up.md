@@ -3,7 +3,11 @@ title: Giving IT up
 date: 2020-01-03T09:37:15.253Z
 comments: true
 ---
+<center>
+
 <img src="https://res.cloudinary.com/prime-images/image/upload/v1578045634/ad_a6vkos.jpg">
+
+</center>
 
 This is a story about a personal struggle. I just had to start writing now cause it's day 3 now, its actually 12h into day 3 and the need for it feels like is at its peak. At the very end of 2019 I came across a stupid health campaign by a ministry or something like that and they encouraged people to give IT up. Its a cheap, very small campaign, featuring two "celebrities" I half-know one of them I think, a TV host, have not heard about the other one. But it felt genuine and it was less intrusive and retarded than all the previous campaigns. AND I have been feeling like I should give IT up about now. So everything aligned and I thought fine, I'll do it. Not just try but do. This stupid campaign can serve to be my motive.
 
@@ -15,7 +19,9 @@ I feel like the nerves in my body are quite highly strung, like I need to scratc
 
 I feel like yes I can do this, I can abstain from the unhealthy hobby, I can do it, but should I, why deny myself this thing? Who is really winning in this situation? Why is the health department running campaigns for me to stop doing this thing? What is their interest in this? Is it so that I would live longer, pay taxes longer? They dont care about the individual me? They dont even know I'm running with the campaign or using it as my motive. And they might never know they had a part in this. So who is benefiting the most from this. Yes of course its me as I'm getting a few years perhaps added to my total score. 
 
-<img src="https://res.cloudinary.com/prime-images/image/upload/v1578045634/camels-fresh-01-2015_v9yldl.jpg>
+<center>
+
+<img src="https://res.cloudinary.com/prime-images/image/upload/v1578045634/camels-fresh-01-2015_v9yldl.jpg">
 
 > Give your throat a vacation
 
@@ -23,10 +29,16 @@ Give me a break, god people were dumb back then
 
 wait a moment.
 
+</center>
+
 But I liked doing it, at some point, I did like it. Then it became like a habit and had so many negative sides to it that you start to doubt in its effect and benefit. Then it becomes disgusting and you hate doing it and second-quess yourself about why you even doing it. Then you try to stop doing it and find out how much you think you like it still. I think that is the real golden truth about it - people who do it are never really at peace or happy, they think that doing it offers them relaxation or peace or whatever but the truth is that that is what people who dont do it, feel all the time. And people who do it just keep chasing that peace but they will never achieve it because they always need to do it.
 
-<img src="https://res.cloudinary.com/prime-images/image/upload/v1578045634/first_pack_qxtdl0.jpg>
+<center>
+
+<img src="https://res.cloudinary.com/prime-images/image/upload/v1578045634/first_pack_qxtdl0.jpg">
 
 > The first commercial cigarettes were made in 1865 by Washington Duke on his 300-acre farm in Raleigh, North Carolina. His hand-rolled cigarettes were sold to soldiers at the end of the Civil War. It was not until James Bonsack invented the cigarette-making machine in 1881 that cigarette smoking became widespread.
+
+</center>
 
 So I know all of it, I have seen the images and heard the propaganda that doing it is bad for me, it stinks, it's barbarian and stupid. A person living in the 2020 should really not be doing a bad thing invented in the 1865 people did a lot of stupid shit back then. If anything there should be some cool futuristic new bad thing people could be doing but going with the belief that mankind can better itself and control its own destiny then I think I can fucking give up doing it if I damn well want to.
