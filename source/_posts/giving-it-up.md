@@ -5,7 +5,7 @@ comments: true
 ---
 <center>
 
-<img src="https://res.cloudinary.com/prime-images/image/upload/v1578045634/ad_a6vkos.jpg">
+<img src="https://res.cloudinary.com/prime-images/image/upload/v1578045634/ad_a6vkos.jpg" >
 
 </center>
 
@@ -22,8 +22,7 @@ I feel like yes I can do this, I can abstain from the unhealthy hobby, I can do 
 <center>
 
 <img src="https://res.cloudinary.com/prime-images/image/upload/v1578045634/camels-fresh-01-2015_v9yldl.jpg">
-</center>
-<center>
+
 "Give your throat a vacation"
 Give me a break, god people were dumb back then
 
@@ -36,8 +35,7 @@ But I liked doing it, at some point, I did like it. Then it became like a habit 
 <center>
 
 <img src="https://res.cloudinary.com/prime-images/image/upload/v1578045634/first_pack_qxtdl0.jpg">
-</center>
-<center>
+
 The first commercial cigarettes were made in 1865 by Washington Duke on his 300-acre farm in Raleigh, North Carolina. His hand-rolled cigarettes were sold to soldiers at the end of the Civil War. It was not until James Bonsack invented the cigarette-making machine in 1881 that cigarette smoking became widespread.
 </center>
 
@@ -45,3 +43,6 @@ So I know all of it, I have seen the images and heard the propaganda that doing 
 
 This is not a lecture or motivation for anyone to give, god knows most of the people have long already given up and the young'ns no longer do it, I think. Odds are no one reading this is struggling with this issue. But if you are, please don't take this as a suggestion to stop, I don't presume to tell you what to do, nor do I desire anything of the sort. You do you and nobody can control what you do. I hate when people preach or attempt to spread their grand good fortune on others, like omg you are healthy, congratulations but shut up, I know I could be healthy and work out more, god. I believe eating carrots and celery is the bees knees but did I ask? I know believing in Buddha or your God is really really awesome but again, did I ask, I know I should be doing this and that with my car to make it more cooler or faster, I know I should do that thing that is very beneficial for me but most of the time I just want to be left alone and not be judged or advised so much. Do I look like I really need all this free advice all the time, its like people have nothing else to talk about? Shit son, what do you think of that thing that guy wrote in the papers this morning, what do you think of Kandinsky in general or The Scream, what does it make you feel. Lets change the narrative sometimes.
 
+<center>
+<img src="https://res.cloudinary.com/prime-images/image/upload/v1578056424/DeathtoStock_Hot_Cold-01_xjsyzz.jpg" width="1017" height="612" >
+</center>
